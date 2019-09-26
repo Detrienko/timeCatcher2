@@ -1,0 +1,1 @@
+export const ADD_BUSINESS = 'ADD_BUSINESS';
